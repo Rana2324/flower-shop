@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base Circle -->
+  <circle cx="256" cy="256" r="240" fill="#FDF2F8"/>
+  
+  <!-- Flower Petals -->
+  <g>
+    <!-- Pink Petals -->
+    <path d="M256 120C285 160 325 170 350 145C375 120 365 80 325 50C295 30 255 40 230 65C205 90 225 130 256 120Z" fill="#FBB6CE"/>
+    <path d="M256 392C285 352 325 342 350 367C375 392 365 432 325 462C295 482 255 472 230 447C205 422 225 382 256 392Z" fill="#FBB6CE"/>
+    <path d="M120 256C160 227 170 187 145 162C120 137 80 147 50 187C30 217 40 257 65 282C90 307 130 287 120 256Z" fill="#FBB6CE"/>
+    <path d="M392 256C352 227 342 187 367 162C392 137 432 147 462 187C482 217 472 257 447 282C422 307 382 287 392 256Z" fill="#FBB6CE"/>
+    
+    <!-- Purple Petals -->
+    <path d="M180 180C200 200 230 200 250 180C270 160 270 130 250 110C230 90 200 90 180 110C160 130 160 160 180 180Z" fill="#E879F9" opacity="0.9"/>
+    <path d="M180 332C200 312 230 312 250 332C270 352 270 382 250 402C230 422 200 422 180 402C160 382 160 352 180 332Z" fill="#E879F9" opacity="0.9"/>
+    <path d="M332 180C312 200 312 230 332 250C352 270 382 270 402 250C422 230 422 200 402 180C382 160 352 160 332 180Z" fill="#E879F9" opacity="0.9"/>
+    <path d="M332 332C312 312 312 282 332 262C352 242 382 242 402 262C422 282 422 312 402 332C382 352 352 352 332 332Z" fill="#E879F9" opacity="0.9"/>
+  </g>
+  
+  <!-- Center Circle -->
+  <circle cx="256" cy="256" r="50" fill="#FFD166"/>
+  <circle cx="256" cy="256" r="35" fill="#FBBF24"/>
+  
+  <!-- Subtle Pattern -->
+  <path d="M256 221C267.6 221 279.3 225.112 288 232.5" stroke="#F9A826" stroke-width="5" stroke-linecap="round"/>
+  <path d="M256 291C267.6 291 279.3 286.888 288 279.5" stroke="#F9A826" stroke-width="5" stroke-linecap="round"/>
+  <path d="M221 256C221 244.4 225.112 232.7 232.5 224" stroke="#F9A826" stroke-width="5" stroke-linecap="round"/>
+  <path d="M291 256C291 244.4 286.888 232.7 279.5 224" stroke="#F9A826" stroke-width="5" stroke-linecap="round"/>
+</svg>
